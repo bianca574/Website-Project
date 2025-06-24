@@ -252,8 +252,7 @@ header a {
     transition: max-height 0.6s ease-in-out, opacity 0.6s ease-in-out;
 }
 
-.section-content.expanded .full-text,
-.content-section.expanded .full-text {
+.expanded .full-text {
     max-height: 300px;
     opacity: 1;
 }
