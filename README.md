@@ -20,7 +20,7 @@ Check out the live site here: [https://bianca574.github.io/coffee_website/]
 
 ## 📸 Screenshot
 
-images/screenshot.jpg
+![Coffee Website](images/screenshot.jpg)
 
 ## 📄 License
 
