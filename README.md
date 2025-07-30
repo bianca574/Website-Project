@@ -4,7 +4,7 @@ A simple, responsive website about coffee — made with HTML, CSS, and JavaScrip
 
 ## 🌐 Live Demo
 
-Check out the live site here: 
+Check out the live site here: [https://bianca574.github.io/coffee_website/]
 
 ## 🛠️ Technologies Used
 
