@@ -1,6 +1,6 @@
 # Coffee Website ☕️
 
-A simple, responsive website about coffee — created with HTML, CSS, and JavaScript.
+A simple, responsive website about coffee — made with HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
