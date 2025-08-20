@@ -1,10 +1,12 @@
 # Coffee Website ☕️
 
-A simple, responsive website about coffee — made with HTML, CSS, and JavaScript.
+A simple, responsive website about coffee.
 
 ## 🌐 Live Demo
 
 Check out the live site here: [https://bianca574.github.io/coffee_website/]
+
+![Coffee Website](images/screenshot.jpg)
 
 ## 🛠️ Technologies Used
 
@@ -17,10 +19,6 @@ Check out the live site here: [https://bianca574.github.io/coffee_website/]
 - Responsive layout
 - Clean visual design
 - Informative sections about coffee
-
-## 📸 Screenshot
-
-![Coffee Website](images/screenshot.jpg)
 
 ## 📄 License
 
